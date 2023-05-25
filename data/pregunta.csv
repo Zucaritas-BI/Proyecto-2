@@ -1,0 +1,14 @@
+ID,Description,ID_TipoRespuesta
+1,TipoVivienda,1
+2,Acueducto,1
+3,Alcantarillado,1
+4,MaterialTecho,1
+5,MaterialPiso,1
+6,CercaniaFabricas,1
+7,CercaniaBasureros,1
+8,CercaniaAgua,1
+9,AnimalesMolestos,1
+10,AguasResiduales,1
+11,AguaAlimentos,1
+12,AguaReutilizar,1
+13,AguaRecolectar,1
